@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimeFromSQLServerToADF",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
