@@ -6,10 +6,10 @@
 		"typeProperties": {
 			"server": "LAPTOP-ME92KU5Q\\SQLDEV",
 			"database": "AdventureWorks2022",
-			"encrypt": "mandatory",
+			"encrypt": "optional",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
-			"userName": "phanqui72",
+			"userName": "phanqui",
 			"password": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
